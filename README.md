@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Lucas Catanio
+# 👋 Olá! Eu sou o Catanio
 
 🎓 Estudante de Engenharia de Software na UVV  
 💻 Foco em desenvolvimento backend com Java  
