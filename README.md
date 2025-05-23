@@ -35,18 +35,26 @@ Sistema para automatizar e gerenciar reembolsos na construção civil.
 🔸 Dashboard administrativo para análise e aprovação  
 🔸 Autenticação JWT implementada para segurança
 
-### ♻️ [EcoDrop]
+### ♻️ EcoDrop
 🏆 2º lugar no INOVA SENAI 2023  
 App que conecta usuários a pontos de coleta de resíduos eletrônicos e recicláveis.  
 🔸 Interface em React Native  
 🔸 Backend em PHP e integração via API  
 🔸 Desenvolvimento Full Stack
 
-### ☕ [API Usuários - Spring](https://github.com/lucascatanio/api-usuarios-spring)
-API REST desenvolvida com Spring Boot para gerenciar usuários.  
-🔸 CRUD completo com autenticação  
-🔸 Integração com banco de dados relacional  
-🔸 Foco em arquitetura limpa e boas práticas
+### ☕ [API Usuários - Spring](https://github.com/lucascatanio/api-usuarios-spring)  
+API REST desenvolvida com Java, Spring Boot e PostgreSQL para cadastro, busca, atualização e remoção de usuários.  
+🔸 Projeto onde estou aplicando e reforçando conhecimentos em arquitetura em camadas (Model, Repository, Service, Controller)
+🔸 Código limpo e preparado para futuras implementações de segurança e autenticação
+
+### 🏦 [Catanio-Banestes](https://github.com/lucascatanio/catanio-banestes)  
+Sistema web para gerenciamento de clientes, contas bancárias e agências, desenvolvido para o Banestes (Banco do Estado do Espírito Santo).  
+🔸 Desenvolvido com Next.js, TypeScript e Tailwind CSS  
+🔸 Busca avançada por nome ou CPF/CNPJ  
+🔸 Visualização detalhada de informações pessoais, financeiras e bancárias organizadas em abas  
+🔸 Paginação e design responsivo  
+🔸 Dados dinâmicos via API Google Sheets ou dados de exemplo para fallback  
+🔸 Uso das cores institucionais do Banestes para a interface  
 
 ---
 
