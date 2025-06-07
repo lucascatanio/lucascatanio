@@ -55,11 +55,3 @@ Sistema web para gerenciamento de clientes, contas bancárias e agências, desen
 🔸 Paginação e design responsivo  
 🔸 Dados dinâmicos via API Google Sheets ou dados de exemplo para fallback  
 🔸 Uso das cores institucionais do Banestes para a interface  
-
----
-
-## 💡 Buscando contribuir com:
-- Projetos Java Spring com foco em segurança, testes e boas práticas
-- Aplicações sustentáveis ou de impacto social
-
-📬 Entre em contato! Estou aberto a colaborações e oportunidades.
