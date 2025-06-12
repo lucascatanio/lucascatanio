@@ -1,6 +1,7 @@
 # Olá! Eu sou o Catanio
 
-Estudante de Engenharia de Software na UVV  
+Estudante de Engenharia de Software na UVV
+Estagiário em Big Data na área de dados
 Foco em desenvolvimento backend com Java
 ES | BRASIL 🇧🇷
 [LinkedIn](https://www.linkedin.com/in/lucascatanio) https://www.linkedin.com/in/lucascatanio
@@ -11,8 +12,7 @@ ES | BRASIL 🇧🇷
 
 - **Back-end**: Java (Spring Boot), Node.js  
 - **Banco de Dados**: MySQL, PostgreSQL
-- **Big Data**: Hadoop (HDFS), Spark, Kafka (em aprendizado)
-- **Linguagens de Dados**: Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Big Data & Análise de Dados (em estudo)**: Python, Hadoop, Spark, Pandas, Matplotlib, OS, NumPy, Seaborn (módulo Python)
 - **Front-end (básico)**: React, HTML, CSS  
 - **Segurança**: Autenticação JWT  
 - **Testes**: Postman, JUnit  
