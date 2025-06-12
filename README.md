@@ -2,8 +2,8 @@
 
 Estudante de Engenharia de Software na UVV  
 Foco em desenvolvimento backend com Java
-🌍 ES | 🇧🇷  
-🔗 [LinkedIn](https://www.linkedin.com/in/lucascatanio)
+ES | BRASIL 🇧🇷
+[LinkedIn](https://www.linkedin.com/in/lucascatanio)
 
 ---
 
