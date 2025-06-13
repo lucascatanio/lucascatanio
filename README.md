@@ -13,8 +13,7 @@ ES | BRASIL 🇧🇷
 - **Back-end**: Java (Spring Boot), Node.js  
 - **Banco de Dados**: MySQL, PostgreSQL
 - **Big Data & Análise de Dados (em estudo)**: Python, Hadoop, Spark, Pandas, Matplotlib, OS, NumPy, Seaborn
-- **Front-end (básico)**: React, HTML, CSS  
-- **Segurança**: Autenticação JWT  
+- **Segurança**: Autenticação JWT 
 - **Testes**: Postman, JUnit  
 - **Ferramentas**: Git, Trello
 
