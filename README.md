@@ -15,6 +15,7 @@ ES | BRASIL 🇧🇷
 - **Segurança**: Autenticação JWT 
 - **Testes**: Postman, JUnit  
 - **Ferramentas**: Git, Trello
+- **Front-end**: HTML, CSS, JavaScript, React
 
 ---
 
