@@ -1,32 +1,34 @@
-# Olá! Eu sou o Catanio
+# Olá! Eu sou o Catanio 🐧🇧🇷
+
+[LinkedIn](https://www.linkedin.com/in/lucascatanio)
 
 Estudante de Engenharia de Software na UVV
 Estagiário em Desenvolvimento Full Stack
 Foco em desenvolvimento backend com Java
-ES | BRASIL 🇧🇷
-[LinkedIn](https://www.linkedin.com/in/lucascatanio) https://www.linkedin.com/in/lucascatanio
 
 ---
 
-## Tecnologias e Habilidades
+## Tecnologias/Habilidades
 
-- **Back-end**: Java (Spring Boot), Node.js  
-- **Banco de Dados**: MySQL, PostgreSQL
-- **Segurança**: Autenticação JWT 
+- **Back-end**: Java (Spring Boot, Spring Security, Spring Data JPA), Node.js  
+- **Banco de Dados**: MySQL, PostgreSQL, Flyway
+- **Segurança**: Autenticação JWT, BCrypt, Autenticação e Autorização baseada em Roles com Spring Security
 - **Testes**: Postman, JUnit  
-- **Ferramentas**: Git, Trello
 - **Front-end**: HTML, CSS, JavaScript, React
-
----
-
-## Ambiente de Desenvolvimento
-
-- Sistema Operacional: Fedora Linux 42 🐧
-- IDEs/Editors: IntelliJ IDEA, VS Code  
+- **API / Documentação**: API RESTful, Padrão DTO, Bean Validation, Swagger
 
 ---
 
 ## Projetos em destaque
+
+## [Lutani Lib](https://github.com/lucascatanio/backend-lutani-lib)
+API RESTful completa para um sistema de gestão interno de bibliotecas, construída com foco em boas práticas de arquitetura, segurança e integridade de dados.
+- CRUDs completos e seguros para Livros, Leitores, Exemplares e Usuários.
+- Lógica de negócio complexa para Empréstimos, Devoluções e Renovações, com validações de regras (ex: limite de empréstimos, status do leitor).
+- Segurança robusta com Spring Security, incluindo autenticação via banco, autorização por Roles (ADMINISTRADOR, BIBLIOTECARIO) e criptografia de senhas com BCrypt.
+- Gerenciamento de banco de dados profissional com Flyway para migrações versionadas.
+- Implementação de deleção lógica (Soft Delete) e auditoria completa para rastrear quem criou, alterou e deletou cada registro.
+- Validação de dados de entrada com anotações customizadas e documentação de API interativa com Swagger/OpenAPI.
 
 ### [EasyRefund](https://github.com/mrigueti/EasyRefund)
 Sistema para automatizar e gerenciar reembolsos na construção civil.  
