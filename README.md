@@ -2,9 +2,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/lucascatanio)
 
+Desenvolvedor Full Stack | Foco em desenvolvimento backend com Java e no ecossistema Spring
 Estudante de Engenharia de Software na UVV
-Estagiário em Desenvolvimento Full Stack
-Foco em desenvolvimento backend com Java
+Técnico em Desenvolvimento de Sistemas pelo Senai de Vitória
 
 ---
 
