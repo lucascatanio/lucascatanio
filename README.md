@@ -1,7 +1,8 @@
 # 🐧🇧🇷
 [LinkedIn](https://www.linkedin.com/in/lucascatanio)
 
-- Desenvolvedor Full Stack | Foco em desenvolvimento com Java e no ecossistema Spring
+## Desenvolvedor Full Stack
+- Tenho foco em desenvolvimento com Java e no ecossistema Spring
 - Estudante de Engenharia de Software na UVV
 - Técnico em Desenvolvimento de Sistemas pelo Senai de Vitória
 
@@ -9,13 +10,11 @@
 
 ## Tecnologias/Habilidades
 
-- **Linguagens**: Java, Javascript
+- **Linguagens**: Java, Javascript, Typescript
 - **Back-end**: Spring Boot (Security, Data JPA, MVC, Validation, Scheduled Tasks, Hibernate), API RESTful, NodeJS
 - **Banco de Dados**: MySQL, PostgreSQL, Flyway, Oracle
-- **Testes**: Postman, JUnit  
-- **Front-end**: Angular, React Native, 
-- **API / Documentação**: Swagger/OpenAPI
-- **Ferramentas/Outros**: Git, Maven, Lombok, Postman, Linux, JWT, Padrão DTO, Bean Validation, BCrypt
+- **Front-end**: Angular, React Native, React
+- **Ferramentas/Outros**: Git, Maven, Lombok, Postman, Linux, JWT, Padrão DTO, Bean Validation, BCrypt, Postman, JUnit, Swagger, OpenAPI
 
 ---
 
