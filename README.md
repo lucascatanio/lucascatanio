@@ -1,4 +1,5 @@
-## Desenvolvedor Full Stack [LinkedIn](https://www.linkedin.com/in/lucascatanio)🐧🇧🇷
+## Desenvolvedor Full Stack 🐧🇧🇷
+[LinkedIn](https://www.linkedin.com/in/lucascatanio)
 - Tenho foco em desenvolvimento com Java e no ecossistema Spring
 - Estudante de Engenharia de Software na UVV
 - Técnico em Desenvolvimento de Sistemas pelo Senai de Vitória
